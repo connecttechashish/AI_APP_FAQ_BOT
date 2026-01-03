@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "question": "What is this project?",
+    "answer": "A local FAQ bot that answers common questions using a small, curated knowledge base.",
+    "text": "Q: What is this project?\nA: A local FAQ bot that answers common questions using a small, curated knowledge base."
+  },
+  {
+    "id": 1,
+    "question": "Where does the FAQ content live?",
+    "answer": "In `data/faq.md` so it can be edited without changing code.",
+    "text": "Q: Where does the FAQ content live?\nA: In `data/faq.md` so it can be edited without changing code."
+  },
+  {
+    "id": 2,
+    "question": "How do I add a new question?",
+    "answer": "Add a new `##` section with the question as the heading and the answer below it.",
+    "text": "Q: How do I add a new question?\nA: Add a new `##` section with the question as the heading and the answer below it."
+  },
+  {
+    "id": 3,
+    "question": "Does this require internet access?",
+    "answer": "No, it is intended to run locally.",
+    "text": "Q: Does this require internet access?\nA: No, it is intended to run locally."
+  }
+]
